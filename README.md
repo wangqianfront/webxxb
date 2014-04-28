@@ -2,12 +2,13 @@
 
 A web singlepag to check the fund income
 
+```sh
 $ [sudo] npm install xxb -g
-````
+```
 
 ### Usage
 Just run `xxb` , you will get the pretty table.
-````
+```sh
 $ xxb
 ````
 
